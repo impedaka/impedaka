@@ -4,7 +4,7 @@
 
 ### I'm Alice Yu
 
-- 🔭 Sophomore at Vincent Massey Secondary School
+- 🔭 Junior at Vincent Massey Secondary School
 - 🌱 Currently learning data structures and algorithms
 - 💬 Reach me through qinfengyu123@gmail.com
 
